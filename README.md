@@ -6,8 +6,8 @@
 ![](./images/screenshot%204.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-with-html-css-vanilla-js-VpqqKV70Mk)
+- Live Site URL: [Add live site URL here](https://subtle-licorice-6f3f23.netlify.app)
 
 ## My process
 
