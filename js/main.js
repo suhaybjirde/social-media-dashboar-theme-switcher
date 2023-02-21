@@ -3,7 +3,7 @@ const circle = document.querySelector('.circle');
 const root = document.querySelector(":root");
 
 function lightTheme() {
-    root.style.setProperty('--clr-primary-700', 'hsl(230, 22%, 74%)')
+    root.style.setProperty('--clr-primary-700', 'hsl(230, 22%, 64%)')
     root.style.setProperty('--clr-neutral-100', 'hsl(0, 0%, 100%)')
     root.style.setProperty('--clr-neutral-200', 'hsl(225, 100%, 98%)')
     root.style.setProperty('--clr-neutral-300', 'hsl(227, 47%, 96%)')
